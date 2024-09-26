@@ -1,6 +1,8 @@
 
-[![logo inova IFPI](https://www.inovaifpi.com/IMAGENS/Logo-Inova.png)](https://www.inovaifpi.com/)
-## Mini curso: Introdução ao mundo da Internet das Coisas (IoT) 
+![logo inova IFPI](logo.png)
+
+# **[INOVA IFPI 2014](https://www.inovaifpi.com/)**
+## Minicurso: Introdução ao mundo da Internet das Coisas (IoT) 
 
 Serão abordados os conceitos fundamentais de IoT, seguidos de uma parte prática que inclui a programação de dispositivos conectados. Os participantes aprenderão como configurar, programar e monitorar dispositivos IoT, além de explorar ferramentas de código aberto para o gerenciamento e visualização de dados em tempo real. O minicurso proporcionará uma compreensão básica de como funcionam os sistemas IoT.
 
@@ -8,12 +10,11 @@ Serão abordados os conceitos fundamentais de IoT, seguidos de uma parte prátic
  - Conceitos fundamentais de IoT:
     - Programação de dispositivos conectados:
     - Configurar;
-    - Programar;
     - Monitorar dispositivos IoT;
  - Ferramentas de código aberto:
     - Arduino IDE;
     - Bibliotecas;
-    - ThingsBoard;
+    - [ThingsBoard](https://thingsboard.io/);
 
 *Objetivo:*
  - Compreensão básica de como funcionam os sistemas IoT.
