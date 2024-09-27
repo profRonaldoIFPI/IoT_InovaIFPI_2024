@@ -7,14 +7,18 @@
 Serão abordados os conceitos fundamentais de IoT, seguidos de uma parte prática que inclui a programação de dispositivos conectados. Os participantes aprenderão como configurar, programar e monitorar dispositivos IoT, além de explorar ferramentas de código aberto para o gerenciamento e visualização de dados em tempo real. O minicurso proporcionará uma compreensão básica de como funcionam os sistemas IoT.
 
 **Conteúdo do curso**
- - Conceitos fundamentais de IoT:
-    - Programação de dispositivos conectados:
-    - Configurar;
-    - Monitorar dispositivos IoT;
+ - Conceitos fundamentais de IoT e aplicações;
+ - Programação de dispositivos conectados:
+      - Configuração do ambiente de desenvolvimento;
+      - Programação C/C++;
+      - Monitorar dispositivos (comunicação serial);
+      - Conexão à rede;
+      - Configuração de container docker;
+      - Comunicação IoT em rede local com protocolo MQTT;
  - Ferramentas de código aberto:
-    - Arduino IDE;
-    - Bibliotecas;
-    - [ThingsBoard](https://thingsboard.io/);
+      - Arduino IDE;
+      - Bibliotecas;
+      - [ThingsBoard](https://thingsboard.io/);
 
 *Objetivo:*
  - Compreensão básica de como funcionam os sistemas IoT.
